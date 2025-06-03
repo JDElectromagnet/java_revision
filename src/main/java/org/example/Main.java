@@ -14,8 +14,13 @@ public class Main {
         object1.forloop_tables(2,20);
 
         System.out.println("---");
-        object1.whileloop(10);
+        object1.whileloop(1);
 
         System.out.println("Hello There!");
+
+
+        DataTypeClass object2 = new DataTypeClass();
+
+        object2.show();
     }
 }

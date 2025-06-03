@@ -27,6 +27,6 @@ public class LoopClass {
             System.out.println(i);
             i--;
         }
-
     }
+
 }
