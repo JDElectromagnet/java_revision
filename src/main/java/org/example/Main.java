@@ -7,11 +7,11 @@ public class Main {
 
         LoopClass object1 = new LoopClass();
 
-//        System.out.println("---");
-//        object1.forloop();
-//
-//        System.out.println("---");
-//        object1.forloop_tables(2,20);
+        System.out.println("---");
+        object1.forloop();
+
+        System.out.println("---");
+        object1.forloop_tables(2,20);
 
         System.out.println("---");
         object1.whileloop(10);
