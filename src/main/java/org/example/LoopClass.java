@@ -20,4 +20,13 @@ public class LoopClass {
             System.out.println(a+" * "+i+" = " +(a*i));
         }
     }
+
+    public void whileloop(int i) {
+
+        while (i>=0){
+            System.out.println(i);
+            i--;
+        }
+
+    }
 }
