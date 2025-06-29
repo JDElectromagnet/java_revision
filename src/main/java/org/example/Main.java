@@ -1,6 +1,7 @@
 package org.example;
 
 
+import org.example.oop.Salary;
 import org.example.oop.Vehicle;
 
 public class Main {
@@ -36,6 +37,11 @@ public class Main {
 
         System.out.println(object3.toString());
 
+        System.out.println("---");
+
+        Salary object4 = new Salary();
+        object4.setName("Juned Ahmed Chowdhury");
+        object4.hello();
 
 
     }

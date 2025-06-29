@@ -7,7 +7,7 @@
 - Core Java concepts
 - Object-Oriented Programming (OOP)
 - Code snippets and mini projects
-- Practice exercises and notes
+- Revision Document - /document/ [Here is a markdown list of the topics of OOP Revision] 
 
 ## 📌 Note
 
